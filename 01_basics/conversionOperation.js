@@ -24,9 +24,18 @@
 // "tahir"=> true: ""=>false
 
 
-let someNumber= 33
-console.log(typeof someNumber);
-let stringnumber= String(someNumber)
-console.log(stringnumber);
-console.log(typeof(stringnumber));
+// let someNumber= 33
+// console.log(typeof someNumber);
+// let stringnumber= String(someNumber)
+// console.log(stringnumber);
+// console.log(typeof(stringnumber));
+
+//*********************OPERATION**********/
+
+// let value = 3
+// let negValue = -value
+// //console.log(negValue);
+
+// console.log();
+
 
